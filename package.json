@@ -1,0 +1,33 @@
+{
+  "name": "cmd-adapter",
+  "version": "0.0.1",
+  "description": "This is command adapter module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvdy/CmdAdapter.git"
+  },
+  "keywords": [
+    "command",
+    "execution"
+  ],
+  "author": "Kaustubh Vaidya <kaustub.vaidya@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvdy/CmdAdapter/issues"
+  },
+  "homepage": "https://github.com/kvdy/CmdAdapter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
