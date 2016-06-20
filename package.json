@@ -25,7 +25,8 @@
   "homepage": "https://github.com/kvdy/CmdAdapter#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^2.5.3"
+    "mocha": "^2.5.3",
+    "bindable": "bindable.js"
   },
   "dependencies": {
     "underscore": "^1.8.3"

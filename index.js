@@ -2,7 +2,7 @@
 
 let contextPath = process.cwd();
 let _ = require('underscore');
-let Bindable = require('/node_modules/cmd-adapter/bindable.js');
+let Bindable = require('bindable');
 
 class CmdAdapter extends Bindable {
 
